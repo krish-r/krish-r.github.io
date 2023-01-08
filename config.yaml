@@ -1,0 +1,34 @@
+baseURL: https://krish-r.github.io
+languageCode: en-us
+title: Krishan
+theme: hugo-minimalist
+
+menu:
+    main:
+        - identifier: "home"
+          name: "Home"
+          url: "/"
+          weight: 10
+        - identifier: "contact"
+          name: "Contact"
+          url: "/contact"
+          weight: 20
+        - identifier: "tech"
+          name: "Tech"
+          url: "/tech"
+          weight: 30
+
+params:
+    home:
+        greeting: Hello
+        name: Krishan
+        shortDesc: |
+            I am a software engineer.
+
+            I currently specialize in software testing and test automation.
+    image:
+        logo: /images/logo.png
+        profile: /images/profile.png
+        favicon: favicon.ico
+
+enableRobotsTXT: true
