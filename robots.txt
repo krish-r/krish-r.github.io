@@ -1,11 +1,10 @@
 User-agent: *
-
+ 
 Disallow: /tech/
-
+  
 Disallow: /contact/
-
-Disallow: /
-
+    
 Disallow: /categories/
-
+  
 Disallow: /tags/
+ 
