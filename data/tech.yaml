@@ -1,0 +1,89 @@
+tech:
+    - Languages (D & T):
+          - Programming:
+                - Java
+                - Go
+                - Python
+                - JavaScript
+                - TypeScript
+                - Lua
+          - Querying & Scripting:
+                - SQL
+                - Shell Scripting
+    - Frameworks, Libraries and Tools:
+          - Test Automation (T):
+                - Selenium
+                - RestAssured
+                - TestNG
+                - JUnit5
+                - Playwright
+          - Testing Tools (T):
+                - JMeter
+                - Postman
+          - FrontEnd (D):
+                - Tailwind CSS
+                - Hugo
+          - BackEnd (D):
+                - Go HTTP (Standard library)
+                - Go Chi
+                - ExpressJS
+                - Flask (with Flask-RESTful)
+          - Command-line (D):
+                - Go Cobra
+    - Databases & DataStore:
+          - SQL (T):
+                - Oracle
+                - PostgreSQL
+                - SQL Server
+                - Teradata
+                - Netezza
+          - NoSQL (D & T):
+                - MongoDB
+                - DynamoDB
+                - CosmosDB
+          - In-Memory DataStore (D):
+                - Redis
+                - H2
+    - Containerization Tools (D & T):
+          - Docker
+    - Data Wrangling, Visualization and ETL (D & T):
+          #     - Data Wrangling and Visualization (D):
+          - Pandas
+          #     - NumPy
+          - Matplotlib
+          - Informatica PowerCenter
+          - Azure Data Factory
+    - BI Reports (T):
+          - QlikView
+          - QlikSense
+          - SSRS
+          - OBIEE
+          - PowerBI
+    - Cloud Services (T):
+          - Azure
+          - AWS
+    - Tracing, Monitoring & Visualization (T):
+          - Prometheus
+          - Jaeger
+          - Grafana
+    - Streaming Services (T):
+          - Apache Kafka
+    - CI / CD Tools (D & T):
+          - GitHub Actions
+          - Azure DevOps
+          - Jenkins
+          - Apache Airflow
+    - Build Tools (T):
+          - Maven
+          - Gradle
+    - Version Control & Remote Repository Hosting Services (D & T):
+          - Git with:
+                - Azure DevOps
+                - BitBucket
+                - GitHub
+    - Test Management Tools (T):
+          - Azure DevOps
+          - JIRA
+          - Confluence
+          - HP ALM
+          - HP QC
