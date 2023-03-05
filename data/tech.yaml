@@ -51,6 +51,7 @@ tech:
           - Pandas
           #     - NumPy
           - Matplotlib
+          - Plotly
           - Informatica PowerCenter
           - Azure Data Factory
     - BI Reports (T):
